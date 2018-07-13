@@ -96,7 +96,7 @@ function validateInput(contents) {
 //
 //});
 
-
+// test
 $("#addButton").click(function() {
 
             if(validateInput($("#roomNumber").val())){
